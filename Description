@@ -1,0 +1,15 @@
+# Cryptocurrency price prediction using neural networks and forecast using time series.
+## Project overview
+
+This project, developed collaboratively by a team of three members,
+focuses on building predictive models for forecasting the prices of popular cryptocurrencies:
+Bitcoin, Litecoin, and Ethereum. 
+
+Using advanced time series forecasting techniques and deep learning models (neural networks), 
+the project aims to provide dynamic and reliable predictions to support investment strategies and risk management decisions.
+
+## Objectives
+
+Predict future price movements for Bitcoin, Litecoin, and Ethereum to help investors and stakeholders make informed financial decisions.
+Leverage real-time data from cryptocurrency APIs to ensure dynamic and up-to-date forecasts.
+Evaluate and optimize predictive models using performance metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).
